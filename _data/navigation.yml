@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: https://miladsoleymani.github.io/Milad-Soleymani/files/cv.pdf
+    url: /files/cv.pdf
     
   # - title: "Guide"
   #   url: /markdown/
