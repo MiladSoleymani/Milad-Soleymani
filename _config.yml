@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "milad_image.png"
+  avatar           : "images/milad_image.png"
   name             : "Milad Soleymani"
   pronouns         : # "he/him" # example: "she/her"  
   bio              : "" # "Short biography for the left-hand sidebar"
