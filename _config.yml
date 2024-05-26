@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Milad Soleymani"
-  pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
-  location         : # "Iran/Tehran"
+  pronouns         : "he/him" # example: "she/her"  
+  bio              : "" # "Short biography for the left-hand sidebar"
+  location         : "Iran/Tehran"
   employer         : "K. N. Toosi University of Technology"
   uri              : # URL
   email            : "miladsolo99@gmail.com" 
