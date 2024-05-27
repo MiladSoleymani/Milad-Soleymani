@@ -19,7 +19,7 @@ I graduated with a B.Sc. in Electrical Engineering from K. N. Toosi University o
 
 I specialize in designing and improving neural networks and training algorithms. I have experience in EEG signal analysis, voice recognition, creating doctor assistant chatbots with LLM models, and developing image generation models. This shows my wide-ranging knowledge and skills in this area.
 
-![](/images/milad.png)
+![milad](/images/milad.png)
 
 🔬 **Research and Innovation:**  
 
