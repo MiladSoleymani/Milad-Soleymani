@@ -12,6 +12,9 @@ redirect_from:
 
 ## About Me
 
+📚 **Academic Background:** 
+I graduated with a B.Sc. in Electrical Engineering from K. N. Toosi University of Technology, where I developed a keen interest in the potential of AI. My thesis project on semantic segmentation of videos further honed my skills in computer vision.
+
 👨‍💻 **What I Do:** 
 
 I specialize in designing and improving neural networks and training algorithms. I have experience in EEG signal analysis, voice recognition, creating doctor assistant chatbots with LLM models, and developing image generation models. This shows my wide-ranging knowledge and skills in this area.
@@ -20,10 +23,7 @@ I specialize in designing and improving neural networks and training algorithms.
 
 🔬 **Research and Innovation:**  
 
-Currently, I'm deeply engaged in developing generative models for image synthesis and improving the accuracy of classification algorithms through self-supervised learning. My projects often leverage cutting-edge technologies like PyTorch, TensorFlow, and cloud platforms like AWS and Google Cloud.
-
-📚 **Academic Background:** 
-I graduated with a B.Sc. in Electrical Engineering from K. N. Toosi University of Technology, where I developed a keen interest in the potential of AI. My thesis project on semantic segmentation of videos further honed my skills in computer vision.
+I am currently focused on developing generative models for image synthesis and enhancing the accuracy of models for image classification and segmentation using this generated data. Additionally, I am working on large language models (LLMs) to create applications that extract and learn information from PDF files, enabling them to answer questions based on this information. My projects frequently utilize advanced technologies such as PyTorch, TensorFlow, and cloud platforms like AWS and Google Cloud.
 
 ## Let's Connect!
 
