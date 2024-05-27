@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I'm **Milad Soleymani**, an AI/ML specialist with a strong foundation in electrical engineering and a deep passion for applying machine learning in diverse fields like medicine autonomous systems. I’m excited to share my journey and projects with you!
+I'm **Milad Soleymani**, an AI/ML specialist with a strong foundation in electrical engineering and a deep passion for applying machine learning in diverse fields like medicine autonomous systems. I’m excited to share my journey and projects with you!
 
 ## About Me
 
 📚 **Academic Background:** 
 I graduated with a B.Sc. in Electrical Engineering from K. N. Toosi University of Technology, where I developed a keen interest in the potential of AI. My thesis project on semantic segmentation of videos further honed my skills in computer vision.
 
-👨‍💻 **What I Do:** 
+👨🏻‍💻 **What I Do:** 
 
 I specialize in designing and improving neural networks and training algorithms. I have experience in EEG signal analysis, voice recognition, creating doctor assistant chatbots with LLM models, and developing image generation models. This shows my wide-ranging knowledge and skills in this area.
 
@@ -25,8 +25,31 @@ I specialize in designing and improving neural networks and training algorithms.
 
 I am currently focused on developing generative models for image synthesis and enhancing the accuracy of models for image classification and segmentation using this generated data. Additionally, I am working on large language models (LLMs) to create applications that extract and learn information from PDF files, enabling them to answer questions based on this information. My projects frequently utilize advanced technologies such as PyTorch, TensorFlow, and cloud platforms like AWS and Google Cloud.
 
+## My Expertise
+
+As a versatile AI/ML specialist, I possess a diverse range of software skills that I apply to various innovative projects and research. Here's a breakdown of my technical and soft skills:
+
+### Technical Skills
+
+- **Programming Languages and Frameworks:**
+  - **Fluent:** Python (including libraries like PyTorch, TensorFlow, Keras, Scikit-learn, Numpy, Gradio, Scipy, Pandas, Matplotlib, MNE, OpenCV, PySpark, Kubeflow, Django)
+  - **Basic Knowledge:** Docker, Git, Linux, Java, C++, Bash, SQL
+
+- **Experimental Skills:**
+  - Statistics, Signal Processing, Medical Image Processing
+
+- **Cloud Computing Platforms:**
+  - Proficient in Microsoft Azure, Google Cloud Platform (GCP), and AWS. These skills enable me to scale projects efficiently and securely in the cloud.
+
+### Soft Skills
+
+- **Critical Thinking:** I approach problems with a logical and analytical mindset, aiming to find effective and efficient solutions.
+- **Communication:** Skilled in articulating complex technical details and collaborating with cross-functional teams to drive project success.
+- **Teamwork:** I thrive in team settings, contributing to and learning from team dynamics to push forward project objectives.
+- **Attention to Detail:** I ensure high standards of quality and precision in all my work, from code to final outputs.
+
 ## Let's Connect!
 
-Whether you’re curious about my research, want to discuss AI applications, or simply connect for future collaborations, I’d love to hear from you. Reach out to me on [LinkedIn](https://www.linkedin.com/in/miladsoleymani/) or drop me an email!
+Whether you’re curious about my research or want to discuss AI applications I’d love to hear from you. Reach out to me on [LinkedIn](https://www.linkedin.com/in/miladsoleymani/) or drop me an email!
 
 Thank you for visiting, and let’s make something innovative together!
