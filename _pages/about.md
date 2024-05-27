@@ -19,7 +19,7 @@ I graduated with a B.Sc. in Electrical Engineering from K. N. Toosi University o
 
 I specialize in designing and improving neural networks and training algorithms. I have experience in EEG signal analysis, voice recognition, creating doctor assistant chatbots with LLM models, and developing image generation models. This shows my wide-ranging knowledge and skills in this area.
 
-![milad](/images/milad.png)
+<img width="482" alt="milad" src="https://github.com/MiladSoleymani/Milad-Soleymani/assets/78655282/bf8fe265-b477-4788-8f19-4d3b4ff9c639">
 
 🔬 **Research and Innovation:**  
 
