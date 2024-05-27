@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/BBA.jpg){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/dalle.png){: .align-right width="300px"}
 👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
 
 🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
