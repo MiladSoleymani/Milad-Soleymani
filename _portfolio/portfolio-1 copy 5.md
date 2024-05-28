@@ -1,7 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Leading a comprehensive project to develop a state-of-the-art chatbot by integrat- ing advanced NLP models GPT-2, focusing on creating seamless, natural language interactions and boosting user engagement"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
