@@ -6,7 +6,6 @@ excerpt: 'This research introduces the POC-CSP, a trainable layer within neural 
 date: 2023-9-01
 venue: '(Prepared Manuscript)'
 paperurl: 'https://miladsoleymani.github.io/Milad-Soleymani/files/POC-CSP.pdf'
-citation: 'Milad Soleymani. (2023). "POC-CSP: A novel Parameterised and Orthogonally-Constrained Neural Network layer for learning Common Spatial Patterns (CSP) in EEG signals."'
 ---
 
 ![project-1](https://github.com/MiladSoleymani/Milad-Soleymani/assets/78655282/e72a2ec4-7834-4ebf-b7c6-574797952c63)
