@@ -2,7 +2,7 @@
 title: "Partovi A , Hosseini S M, Soleymani M, Liaghat K, Ziaee S, H P Fard E. A Deep Learning Algorithm for Classifying Grasp Motions using Multi-session EEG Recordings"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: ''
+excerpt: 'The paper "A Deep Learning Algorithm for Classifying Grasp Motions using Multi-session EEG Recordings" introduces a novel classification method for motor imagery tasks involving grasp motions, utilizing a combination of anomaly detection and neural network models, including both fully connected and convolutional neural networks. It successfully classifies three types of grasp motions (cylindrical, spherical, and lumbrical) using EEG data from multi-session recordings. The study achieves more than 80% accuracy in some subjects and an average of 57% across a cohort, demonstrating the efficacy of deep learning in decoding complex motor intentions from EEG signals, despite variations in signal quality across different sessions. This approach marks a significant advancement in the practical application of BCIs for interpreting nuanced human intentions.'
 date: 2021-9-01
 venue: 'IEEE'
 paperurl: 'https://ieeexplore.ieee.org/document/9385295'
