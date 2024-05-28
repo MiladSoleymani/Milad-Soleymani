@@ -1,5 +1,5 @@
 ---
-title: "Implementing an object detection algorithm capable of distinguishing empty park- ing lots from full ones, significantly optimizing parking space management, and reducing manual monitoring efforts"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Implementing an object detection algorithm capable of distinguishing empty parking lots from full ones, significantly optimizing parking space management, and reducing manual monitoring efforts"
+excerpt: "This project was carried out by me for [RUTILEA](https://rutilea.com/en/rutilea/), Japan"
 collection: portfolio
 ---
