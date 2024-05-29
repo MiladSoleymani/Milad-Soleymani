@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "CompressorPulse Health Monitor"
+excerpt: "Designing a predictive system using machine learning algo- rithms and fast signal processing for online detection of correct or incorrect operation of air conditioning compressors using embedded accelerometer sensors"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<img width="435" alt="Screenshot 2024-05-29 at 10 52 36 PM" src="https://github.com/MiladSoleymani/Milad-Soleymani/assets/78655282/e9140af8-f654-4a8e-acc6-0d3d15c1a891">
+
