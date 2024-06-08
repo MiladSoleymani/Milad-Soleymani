@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Milad Soleymani**, an AI/ML specialist with a strong foundation in electrical engineering and a deep passion for applying machine learning in diverse fields like medicine autonomous systems. I’m excited to share my journey and projects with you!
+I'm **Milad Soleymani**, an AI/ML specialist with a strong foundation in electrical engineering and a deep passion for applying machine learning in diverse fields like medicine and autonomous systems. I’m excited to share my journey and projects with you!
 
 ## About Me
 
