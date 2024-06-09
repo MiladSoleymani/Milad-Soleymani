@@ -4,8 +4,6 @@ excerpt: " <img width='350' alt='Screenshot 2024-05-29 at 10 52 36 PM' src='ht
 collection: portfolio
 ---
 
-# Algorithm for Distinguishing Empty Parking Lots from Full Ones
-
 ## Overview
 The purpose of this document is to provide a detailed overview of the implementation of an algorithm capable of distinguishing empty parking lots from full ones. This algorithm aims to significantly optimize parking space management and reduce manual monitoring efforts.
 
