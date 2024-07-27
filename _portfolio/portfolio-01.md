@@ -4,8 +4,6 @@ excerpt: "<img width='350' alt='Screenshot 2024-05-29 at 10 52 36 PM' src='htt
 collection: portfolio
 ---
 
-# Predictive Analysis for Medicine Shortages
-
 ## Project Overview
 
 Welcome to the **Predictive Analysis for Medicine Shortages** project, an initiative aimed at analyzing and predicting medicine shortages across Australia. By leveraging the power of Google Cloud Platform (GCP), we aim to provide actionable insights to healthcare providers, suppliers, and policymakers, facilitating proactive measures in supply chain management and reducing the risk of critical shortages.
